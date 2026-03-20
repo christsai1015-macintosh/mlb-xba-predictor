@@ -67,5 +67,5 @@ if st.sidebar.button("分析擊球機率", type="primary"):
     # 專業註解
     st.info(f"💡 註：在統計模型中，這球在 {selected_team} 的成功率比聯盟平均{'高' if diff > 0 else '低'}。")
 
-st.markdown("---")
-st.caption("工管系專題實作：運動統計與決策分析工具")
+# st.markdown("---")
+# st.caption("工管系專題實作：運動統計與決策分析工具")
